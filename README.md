@@ -21,6 +21,19 @@ This dataset includes financial records, covering **Revenue, Expenses, and Profi
 
 ---
 
+## Executive Summary
+Our analysis of **Turtle Co.'s Profit and Loss Statement** reveals key financial trends:  
+
+ 1. Revenue Growth: Gross Profit increased from £23.83M (2018) → £39.68M (2019) → £53.41M (2020), demonstrating strong business expansion.  
+ 2. Improved Operational Efficiency: EBITDA grew from £11.47M in 2018 to £22.37M in 2020, indicating enhanced cost management.
+ 3. Rising Profitability: Operating Profit and PBIT (Profit Before Interest & Tax) steadily increased.
+ 4. Net Profit Nearly Doubled: Jumping from £6.23M in 2018 to £12.89M in 2020, showcasing improved financial performance.
+ 5. Marketing Expenses Spiked in Q4 2020: A sharp rise in marketing costs contributed to higher revenue but also increased spending.
+ 6. Profit Margins Fluctuated: While sales and profits grew, Net Profit Margins remained inconsistent, indicating financial inefficiencies.  
+
+ **These insights highlight the importance of controlling costs while sustaining revenue growth.**  
+
+
 ## Objectives
 The primary aim of this analysis is to transform **financial data into meaningful insights** that support business growth. Specifically, we focus on:  
 
@@ -39,20 +52,6 @@ The primary aim of this analysis is to transform **financial data into meaningfu
 ### 📌 Providing Data-Driven Financial Recommendations  
 1. Suggesting strategies for maximising profit and reducing costs.  
 2. Offering best practices for improving financial stability.  
-
----
-
-## Executive Summary
-Our analysis of **Turtle Co.'s Profit and Loss Statement** reveals key financial trends:  
-
- 1. Revenue Growth: Gross Profit increased from £23.83M (2018) → £39.68M (2019) → £53.41M (2020), demonstrating strong business expansion.  
- 2. Improved Operational Efficiency: EBITDA grew from £11.47M in 2018 to £22.37M in 2020, indicating enhanced cost management.
- 3. Rising Profitability: Operating Profit and PBIT (Profit Before Interest & Tax) steadily increased.
- 4. Net Profit Nearly Doubled: Jumping from £6.23M in 2018 to £12.89M in 2020, showcasing improved financial performance.
- 5. Marketing Expenses Spiked in Q4 2020: A sharp rise in marketing costs contributed to higher revenue but also increased spending.
- 6. Profit Margins Fluctuated: While sales and profits grew, Net Profit Margins remained inconsistent, indicating financial inefficiencies.  
-
-📌 **These insights highlight the importance of controlling costs while sustaining revenue growth.**  
 
 ---
 
