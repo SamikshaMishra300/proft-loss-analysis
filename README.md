@@ -21,7 +21,7 @@ This dataset includes financial records, covering **Revenue, Expenses, and Profi
 
 ---
 
-## Executive Summary
+## 📌 Executive Summary
 Our analysis of **Turtle Co.'s Profit and Loss Statement** reveals key financial trends:  
 
  1. Revenue Growth: Gross Profit increased from £23.83M (2018) → £39.68M (2019) → £53.41M (2020), demonstrating strong business expansion.  
