@@ -1,7 +1,7 @@
 # PROFIT AND LOSS ANALYSIS
 
 ## **Project Background**  
-![Image](https://github.com/user-attachments/assets/69fd4ce9-da56-435e-b18b-dc6f8db00408)
+![Image](https://github.com/user-attachments/assets/2b70b37f-8216-4a2a-9474-6c18b39c8630)
 Understanding a company's financial performance is essential for **optimising profitability and ensuring long-term sustainability**. This analysis focuses on **Turtle Co.'s Profit and Loss (P&L) statement**, utilising a **Tableau dashboard** to visualise key financial trends from **2018 to 2020**.  
 
 The goal of this analysis is to evaluate key financial metrics—**sales, expenses, gross profit, EBITDA, operating profit, and net profit**—to uncover actionable insights that can enhance decision-making. The findings will assist in **cost optimisation, refining financial strategies, and improving overall profitability**.  
